@@ -3,9 +3,9 @@
 I'm Farez, and...
 
 - I build software with Laravel and Drupal
-- I'm currently making https://markfolder.com
-- I send out weekly audience growth newsletters at https://audiencegrowth.substack.com
+- I'm currently building https://markfolder.com and https://notioninvoice.com
 - I blog at https://farez.me
+- I am available for freelance work
 - Ask me about: surfing, coding, freelancing, being a nomad
 - How to reach me: https://twitter.com/farez where I also tweet about freelancing, startuping, and a balanced independent life.
 - Fun fact: I never had a permanent ("real") job

@@ -2,8 +2,9 @@
 
 I'm Farez, and...
 
-- I build software with Laravel and Drupal
-- I'm currently building https://markfolder.com and https://notioninvoice.com
+- I build software with Laravel, Livewire and AlpineJS.
+- I build document AI solutions with OpenAI and open source LLMs.
+- I'm currently building https://bunni.ai, https://markfolder.com and https://notioninvoice.com
 - I blog at https://farez.me
 - I am available for freelance work
 - Ask me about: surfing, coding, freelancing, being a nomad

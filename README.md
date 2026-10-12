@@ -2,13 +2,13 @@
 
 I'm Farez, and...
 
-- I build software with Laravel, Livewire and AlpineJS.
-- I build document AI solutions with OpenAI and open source LLMs like LlamaIndex.
-- I'm currently building https://bunni.ai, https://markfolder.com and https://popinvoice.com
+- I build AI agents for governments.
+- I build document AI solutions.
+- I founded https://popinvoice.com
 - I blog at https://farez.me
+- My socials: https://x.com/farez or https://www.linkedin.com/in/farez
 - I am available for freelance work
 - Ask me about: surfing, coding, freelancing, being a nomad
-- How to reach me: https://twitter.com/farez where I also tweet about freelancing, startuping, and a balanced independent life.
 - Fun fact: I never had a permanent ("real") job
 - Fun fact 2: I used to organise rock climbing trips to Croatia
 
